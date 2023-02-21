@@ -21,18 +21,23 @@ _[**Website**](https://sweetuk.net)_
 
 _Studying GCSEs in Year 11._
 
-_Applying for A-Levels in Computer Science, Law and Psychology._
+_**Accepted** for A-Levels in Computer Science, Law and Psychology._
 
 ## A bit about me
 
 ```javascript
 const me = {
   name: "Morgan Jones",
-  pronouns: ["He", "Him"],
-  gcseOptions: [
+  pronouns: ["He", "They"],
+  gcseOptions: [ // Actively studying
     "Information Technology",
     "Religious Studies",
     "Public Services (Level 2)",
+  ],
+  aLevels: [ // Studying in college starting September, 2023
+    "Computer Science",
+    "Law",
+    "Psychology"
   ],
   spokenLanguages: {
     English: "Fluent",
@@ -51,6 +56,7 @@ const computer = {
   },
   specs: {
     cpu: "Ryzen 5 3400G",
+    gpu: "AMD Radeon RX 6650 XT MECH 2X",
     motherboard: "Asrock B450m Pro4",
     powerSupply: "EVGA 500W 80+",
     bootDrive: "Addlink 256GB NVMe SSD",
@@ -68,4 +74,4 @@ I dual boot both Windows 11 and Arch Linux (with Hyprland as my window manager).
 
 I primarily code in JavaScript and TypeScript, but I also use bash, Rust or Python (**very** occasionally).
 
-My computer runs on a Ryzen 5 3400G, with an Asrock B450m Pro4 motherboard, a EVGA 500W power supply, an Addlink 256GB NVMe SSD for boot, a WD Blue 1TB M.2 SSD for storage and 2 Corsair Vengance LPX 8GB DDR4 memory sticks.
+My computer runs on a Ryzen 5 3400G and an AMD RX 6650 XT by MSI, on an Asrock B450m Pro4 motherboard, a EVGA 500W power supply, an Addlink 256GB NVMe SSD for boot, a WD Blue 1TB M.2 SSD for storage and 2 Corsair Vengance LPX 8GB DDR4 memory sticks.
